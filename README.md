@@ -1,5 +1,5 @@
 ---
-##💎 GemRush
+💎 GemRush
 
 GemRush is a fast-paced arcade-style OpenGL game where your goal is to catch falling gems using a basket.
 The game tests your reflexes and precision as the gems drop faster with every successful catch.
